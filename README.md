@@ -51,6 +51,8 @@ mvn spring-boot:run
 #Inside frontend directory
 npm run dev
 ```
+<img width="874" height="199" alt="Screenshot 2025-10-19 230643" src="https://github.com/user-attachments/assets/80434f53-c1a9-4fd7-b652-8eb0a3d2d67c" />
+
 
 ##UI LOOK
 <img width="1189" height="806" alt="Screenshot 2025-10-19 221109" src="https://github.com/user-attachments/assets/da2ab2ea-e2d6-43d3-b90b-3bc9976be6db" />
