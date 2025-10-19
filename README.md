@@ -15,5 +15,6 @@
 <img width="1183" height="802" alt="Screenshot 2025-10-19 222757" src="https://github.com/user-attachments/assets/c25845d7-150a-417a-8a33-3ec40da7e186" />
 
 ##DELETE
-<img width="1247" height="452" alt="Screenshot 2025-10-19 223419" src="https://github.com/user-attachments/assets/0dee52e9-6860-44e1-8225-f564173c4c51" />
-<img width="1202" height="813" alt="Screenshot 2025-10-19 223513" src="https://github.com/user-attachments/assets/5e0ee1fd-3fa6-48e5-bca7-3c08c931f64e" />
+<img width="1219" height="456" alt="Screenshot 2025-10-19 224003" src="https://github.com/user-attachments/assets/cfffdabe-fb74-4e23-b635-b137347c32c0" />
+<img width="1187" height="815" alt="Screenshot 2025-10-19 224019" src="https://github.com/user-attachments/assets/46baa25e-07a2-4c2b-a7ef-9ed3bb5f8847" />
+
