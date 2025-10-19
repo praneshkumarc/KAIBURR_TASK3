@@ -1,5 +1,8 @@
 # KAIBURR_TASK3
 ##FRONTEND - BACKEND CONNECTIVITY GUIDE
+
+> **Note:** Everything outside `k8s/` and `frontend/` belongs to the Spring Boot backend project.
+
 ##1) Kubernetes (Minikube)
 ```bash
 # Start cluster and use its Docker daemon (run these in your shell)
